@@ -1,0 +1,16 @@
+{
+  "name": "sprint-boot",
+  "version": "0.0.1",
+  "private": true,
+  "description": "Spring boot webpack",
+  "dependencies": {
+    "bootstrap": "3.3.5",
+    "font-awesome": "~4.5.0",
+    "lodash": "~3.10.1",
+    "jquery": "~2.1.0",
+    "moment": "~2.10.6",
+    "moment-timezone": "~0.4.0",
+    "moment-tzdetect": "~0.1.0",
+    "spin.js": "~2.3.2"
+  }
+}
