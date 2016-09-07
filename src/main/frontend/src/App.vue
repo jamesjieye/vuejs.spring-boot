@@ -3,7 +3,7 @@
     <img class="logo" src="./assets/logo.png">
     <hello></hello>
     <p>
-      Welcome to your Vue.js + Sprint Boot!
+      Welcome to your Vue.js + Spring Boot!
     </p>
     <p>
       To get a better understanding of how this boilerplate works, check out
