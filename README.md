@@ -4,6 +4,6 @@
 
 Start webpack, switch to `frontend` folder and run `npm run dev`
 
-### Reference
+### This example is based on
 - https://github.com/mikaelhg/spring-boot-webpack-es6-react-poc
 - https://github.com/vuejs-templates/webpack
