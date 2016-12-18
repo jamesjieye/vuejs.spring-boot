@@ -1,13 +1,10 @@
 .DS_Store
+node_modules/
+dist/
+npm-debug.log
 /target/
 .settings
 .project
 .classpath
-dist/
 /.idea/
 /*.iml
-/devdb*
-/src/main/resources/git.properties
-/data/
-node_modules/
-bower_components/
