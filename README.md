@@ -1,3 +1,7 @@
+# DEPRECATED
+
+> Check out the latest full-stack application project [TaskAgile - vuejs.spring-boot.mysql](https://github.com/taskagile/vuejs.spring-boot.mysql)
+
 # vuejs.spring-boot
 
 > A project starter with Vue.js 2.x, Spring Boot 2.x, Webpack, 3.x and ES2015/ES6
